@@ -8,7 +8,7 @@
 - [ ] 13. Chicken sate
 - [ ] 14. Beef
 - [ ] 15. Shrimp
-- [ ] 16. Duck crispy
+- [x] 16. Duck crispy
 - [ ] 17. Baked chicken breast
 
 ### Delicious peanut sauce
