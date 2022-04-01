@@ -32,5 +32,5 @@ Egg fried rice with peas and vegetables:
 - [x] 73. Chicken sate
 - [ ] 74. Beef
 - [ ] 75. Shrimp
-- [ ] 76. Duck crispy
+- [x] 76. Duck crispy
 - [ ] 77. Baked chicken breast
