@@ -1,5 +1,9 @@
 # asia-snack-menu
 
+[![Software License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+This repository provides a list of tasted food at the Asia Snack restaurant.
+
 ### By Thai noodles kind sharp
 
 - [ ] 10. Vegetables
