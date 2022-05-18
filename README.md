@@ -26,6 +26,19 @@ Roasted peppers, bamboo, corn, chili, peanut sauce in depending on washed with:
 - [x] 48. Baked chicken breast
 - [x] 49. Duck crispy
 
+### Pasta dishes - chinafpanner
+
+Fried noodles with various vegetables and:
+
+- [ ] 60. Vegetables
+- [ ] 61. Tofu (vegetarian)
+- [ ] 62. Chicken
+- [ ] 63. Chicken sate
+- [ ] 64. Beef
+- [ ] 65. Shrimp
+- [x] 66. Duck crispy
+- [ ] 67. Baked chicken breast
+
 ### Egg rice - courts
 
 Egg fried rice with peas and vegetables:
