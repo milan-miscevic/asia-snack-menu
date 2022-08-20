@@ -22,7 +22,7 @@ Roasted peppers, bamboo, corn, chili, peanut sauce in depending on washed with:
 - [ ] 44. Vegetables
 - [ ] 45. Tofu (vegetarian)
 - [x] 46. Chicken
-- [ ] 47. Shrimp
+- [x] 47. Shrimp
 - [x] 48. Baked chicken breast
 - [x] 49. Duck crispy
 
