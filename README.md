@@ -51,3 +51,20 @@ Egg fried rice with peas and vegetables:
 - [ ] 75. Shrimp
 - [x] 76. Duck crispy
 - [ ] 77. Baked chicken breast
+
+### Delicate sauce with garlic
+
+- [ ] 86. Tofu (vegetarian)
+- [ ] 87. Chicken
+- [ ] 88. Shrimp
+- [ ] 89. Beef
+- [ ] 90. Fried fish filet
+- [x] 91. Duck crispy
+- [ ] 92. Baked chicken breast
+
+### Zy Ky Jak Ky courts
+
+- [ ] 100. Vegetables (vegetarian)
+- [ ] 101. Chicken
+- [ ] 102. Beef
+- [x] 103. Duck crispy
