@@ -44,7 +44,7 @@ Fried noodles with various vegetables and:
 Egg fried rice with peas and vegetables:
 
 - [x] 70. Vegetables
-- [ ] 71. Tofu (vegetarian)
+- [x] 71. Tofu (vegetarian)
 - [x] 72. Chicken
 - [x] 73. Chicken sate
 - [ ] 74. Beef
