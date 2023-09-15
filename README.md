@@ -13,7 +13,7 @@ This repository provides a list of tasted food at the Asia Snack restaurant.
 - [ ] 14. Beef
 - [ ] 15. Shrimp
 - [x] 16. Duck crispy
-- [ ] 17. Baked chicken breast
+- [x] 17. Baked chicken breast
 
 ### Delicious peanut sauce
 
