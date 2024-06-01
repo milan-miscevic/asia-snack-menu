@@ -55,7 +55,7 @@ Egg fried rice with peas and vegetables:
 ### Delicate sauce with garlic
 
 - [ ] 86. Tofu (vegetarian)
-- [ ] 87. Chicken
+- [x] 87. Chicken
 - [ ] 88. Shrimp
 - [ ] 89. Beef
 - [ ] 90. Fried fish filet
