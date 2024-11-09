@@ -57,7 +57,7 @@ Egg fried rice with peas and vegetables:
 - [ ] 86. Tofu (vegetarian)
 - [x] 87. Chicken
 - [ ] 88. Shrimp
-- [ ] 89. Beef
+- [x] 89. Beef
 - [ ] 90. Fried fish filet
 - [x] 91. Duck crispy
 - [ ] 92. Baked chicken breast
