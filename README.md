@@ -32,7 +32,7 @@ Fried noodles with various vegetables and:
 
 - [ ] 60. Vegetables
 - [ ] 61. Tofu (vegetarian)
-- [ ] 62. Chicken
+- [x] 62. Chicken
 - [ ] 63. Chicken sate
 - [ ] 64. Beef
 - [ ] 65. Shrimp
