@@ -37,7 +37,7 @@ Fried noodles with various vegetables and:
 - [ ] 64. Beef
 - [ ] 65. Shrimp
 - [x] 66. Duck crispy
-- [ ] 67. Baked chicken breast
+- [x] 67. Baked chicken breast
 
 ### Egg rice - courts
 
