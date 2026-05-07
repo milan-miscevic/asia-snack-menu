@@ -50,7 +50,7 @@ Egg fried rice with peas and vegetables:
 - [x] 74. Beef
 - [ ] 75. Shrimp
 - [x] 76. Duck crispy
-- [ ] 77. Baked chicken breast
+- [x] 77. Baked chicken breast
 
 ### Delicate sauce with garlic
 
