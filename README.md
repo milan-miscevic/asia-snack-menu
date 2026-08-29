@@ -52,6 +52,17 @@ Egg fried rice with peas and vegetables:
 - [x] 76. Duck crispy
 - [x] 77. Baked chicken breast
 
+### Chop Suey courts
+
+In spicy sauce, mixed vegetables with:
+
+- [x] 80. Vegetables (vegetarian)
+- [ ] 81. Tofu (vegetarian)
+- [ ] 82. Chicken
+- [ ] 83. Shrimp
+- [ ] 84. Beef
+- [ ] 85. Duck crispy
+
 ### Delicate sauce with garlic
 
 - [ ] 86. Tofu (vegetarian)
