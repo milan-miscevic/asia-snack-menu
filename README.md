@@ -19,7 +19,7 @@ This repository provides a list of tasted food at the Asia Snack restaurant.
 
 Roasted peppers, bamboo, corn, chili, peanut sauce in depending on washed with:
 
-- [ ] 44. Vegetables
+- [x] 44. Vegetables
 - [x] 45. Tofu (vegetarian)
 - [x] 46. Chicken
 - [x] 47. Shrimp
